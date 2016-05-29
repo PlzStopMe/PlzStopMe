@@ -40,3 +40,5 @@ meteorhacks:fast-render
 universe:audio-recorder
 standard-minifier-css
 standard-minifier-js
+vazco:universe-collection
+meteortoys:toykit
