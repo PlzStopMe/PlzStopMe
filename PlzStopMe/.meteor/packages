@@ -41,9 +41,9 @@ dburles:collection-helpers
 meteorhacks:fast-render
 johnantoni:meteor-normalize
 ostrio:templatehelpers
-semantic:ui-css
 standard-minifier-js
 simple:dev-error-overlay
 seba:minifiers-autoprefixer
 fourseven:scss
 materialize:materialize
+semantic:ui-css
