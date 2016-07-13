@@ -8,8 +8,8 @@ A Web application that allows students to anonymously express their understandin
 ### Installation
 Install [orion-cli](https://github.com/matteodem/orion-cli)
 ```
-$npm install -g orion-cli
-$cd PlzStopMe
+$npm install -g iron-meteor
+$cd PlzStopMe/app
 $meteor
 ```
 
