@@ -29,5 +29,5 @@ Template.MasterLayout.events({
 
 Template.MasterLayout.onRendered(function() {
 	// initialize dropdown menu
-	$(".dropdown-button").dropdown();
+	$("#dropdown-button").dropdown();
 });
